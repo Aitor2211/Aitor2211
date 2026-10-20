@@ -1,4 +1,5 @@
-## Hi there 👋
+Hola soy  Aitor estudiante de 1 de SMR y estoy  aprendiendo cada dia más sobre el mundo de la informática y la tecnología lo que mas me guta en mis tiempos libres es jugar al futbol y pasar tiempo jugando con el ordenador.
+
 
 <!--
 **Aitor2211/Aitor2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
